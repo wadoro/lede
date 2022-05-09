@@ -57,6 +57,9 @@ ALLWIFIBOARDS:= \
 	p2w_r619ac \
 	qnap_301w \
 	qxwlan_e2600ac \
+	redmi_ax6 \
+	xiaomi_ax3600 \
+	xiaomi_ax9000 \
 	zte_mf263 \
 	zte_mf269 \
 	tplink_xtr10890
